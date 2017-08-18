@@ -1,5 +1,7 @@
 # wat
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/syzer/spotify-music.svg)](https://greenkeeper.io/)
+
 Spotify music mixer
 
 # how
